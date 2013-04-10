@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+  <head>
+    <LINK rel="stylesheet" href="css/bootstrap.css" type="text/css">
+    <style>
+      body {
+      }
+      #container {
+        width: 450px;
+        padding: 230px 0 350px 0;
+        font-size: .8 em;
+        font-family: fantasy;
+        background-color: #313131;
+        color: #b9b9b9;
+        background-image: url(Screen.png); 
+        z-index: 3;
+      }
+    </style>
+    <title> Vintage Theatre </title>
+  </head>
+  <body>
+    <div id="container">
+      <div id="intro">
+        <div id="pageHeader">
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="http://code.jquery.com/jquery-1.8.0.min.js" type="text/javascript"></script>
+    <script src="js/bootstrap.js" type="text/javascript"></script>
+  </body>
+</html>
+    
